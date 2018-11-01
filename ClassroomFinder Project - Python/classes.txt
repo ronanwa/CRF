@@ -1,0 +1,148 @@
+WINTER TERM PROFESSORS,WINTER TERM CLASSES,0,BLDNG,BLDNG NUM
+-,ACCOUNTING COURSES,0,-,-
+lemmond,Principles of Accounting I (ACCT& 201 - ONLINE),4000,ONL,ONL
+walsh,Principles of Accounting I (ACCT& 201),4001,SHL,216
+walsh,Principles of Accounting I (ACCT& 201),4002,SHL,216
+duback,Principles of Accounting I (ACCT& 201),4003,SHL,216
+lemmond,Principles of Accounting II (ACCT& 202 - ONLINE),4004,ONL,ONL
+lemmond,Principles of Accounting II (ACCT& 202),4005,SHL,103
+staff,Principles of Accounting II (ACCT& 202),4006,JSH,120
+duback,Principles of Accounting II (ACCT& 202),4007,SHL,216
+lemmond,Principles of Accounting III (ACCT& 203),4008,SHL,103
+-,ADDICTION COUNSELOR EDUCATION COURSES,0,-,-
+roi,Intro to Addictions Counseling Skills (ACED 122),4009,HHL,109
+wissusik,Group Counseling in Addictions (ACED 125),4010,HHL,109
+roi,Law and Ethics in Addictions Counseling (ACED 136),4011,HHL,106
+jensen,Adolescent Addiction Assessment & Treatment (ACED 136),4012,HHL,101
+kroll,Air/Blood Borne Pathogens (ACED 170),4013,HHL,102
+jensen,Field Placement I (ACED 210),4014,FHL,107
+jensen,Field Placement II (ACED 211),4015,FHL,107
+-,ANTHROPOLOGY COURSES,0,-,-
+cornett,Archaeology (ANTH& 204),4016,HHL,117
+fancher,Cultural Anthropology (ANTH& 206 - ONLINE),4017,ONL,ONL
+fancher,Cultural Anthropology (ANTH& 206),4018,HHL,118
+fancher,Cultural Anthropology (ANTH& 206),4019,APH,114
+schubert,Bioanthropology (ANTH& 215),4020,HHL,117
+schubert,Bioanthropology (ANTH& 215),4021,HHL,117
+schubert,Bioanthropology (ANTH& 215),4022,HHL,117
+schubert,Bioanthropology (ANTH& 215),4023,HHL,117
+schubert,Bioanthropology (ANTH& 215),4024,HHL,117
+schubert,Bioanthropology (ANTH& 215),4025,HHL,117
+schubert,Bioanthropology (ANTH& 215),4026,HHL,117
+schubert,Bioanthropology (ANTH& 215),4027,HHL,117
+schubert,Bioanthropology (ANTH& 215),4028,HHL,117
+schubert,Bioanthropology (ANTH& 215),4029,HHL,117
+schubert,Primatology (ANTH& 245),4030,HHL,117
+-,ART COURSES,0,-,-
+cooper,Drawing I (ART 103),4031,FAC,107
+cooper,Drawing I (ART 103),4032,FAC,107
+cooper,Drawing I (ART 103),4033,FAC,107
+jarzombeki,Drawing I (ART 103),4034,FAC,107
+rosenberg,Drawing I (ART 103),4035,FAC,107
+rosenberg,Drawing I (ART 103),4036,FAC,107
+hottle,Drawing I (ART 103),4037,FAC,107
+ramin,Drawing I (ART 103),4038,FAC,107
+cooper,Drawing I (ART 103),4039,FAC,107
+jarzombeki,Drawing I (ART 103),4040,FAC,107
+hottle,Observational Drawing (ART 104),4041,FAC,108
+gilley,Creativity & Concept (ART 110),4042,AA4,117
+jarzombeki,Two-Dimensional Design (ART 115),4043,FAC,103
+ramin,Two-Dimensional Design (ART 115),4044,AA4,117
+rosenberg,Two-Dimensional Design (ART 115),4045,FAC,103
+friedman,Color Theory and Design (ART 116),4046,FAC,103
+gilley,Time-Based Art & Design (ART 118),4047,AA4,101
+abrahamson,Photo Storytelling (ART 131),4048,AA4,101
+abrahamson,Darkroom Photography (ART 140),4049,FAC,105
+abrahamson,Darkroom Photography (ART 140),4050,FAC,105
+stokes,Photography II (ART 141),4051,FAC,105
+stokes,Photography III (ART 142),4052,FAC,105
+waelchli,Digital Phtography I (ART 145 - ONLINE),4053,ONL,ONL
+waelchli,Digital Phtography I (ART 145 - ONLINE),4054,ONL,ONL
+stokes,Digital Photography I (ART 145),4055,AA4,103
+hayes,Digital Photography I (ART 145),4056,AA4,103
+hayes,Digital Photography I (ART 145),4057,AA4,103
+stokes,Digital Photography II (ART 146),4058,FAC,105
+myers,Art Appeciation (ART 151 - ONLINE),4059,ONL,ONL
+tomlinson,Art Appeciation (ART 151 - ONLINE),4060,ONL,ONL
+staley,Art Appeciation (ART 151),4061,FAC,104
+stutz,Graphic Design Exploration (ART 172 - ONLINE),4062,ONL,ONL
+kolonina,Graphic Design Exploration (ART 172),4063,AA4,101
+riley,Graphic Design Studio I (ART 173),4064,AA4,101
+durst,Ceramics I: Pottery (ART 180),4065,FAC,011
+conway,Ceramics I: Pottery (ART 180),4066,FAC,011
+parque,Ceramics I: Pottery (ART 180),4067,FAC,011
+conway,Ceramics II: Pottery (ART 181),4068,FAC,011
+conway,Ceramics III: Pottery (ART 182),4069,FAC,011
+bentley,Metal Arts I (ART 189),4070,FAC,106
+bentley,Metal Arts II (ART 190),4071,FAC,106
+bentley,Metal Arts III (ART 191),4072,FAC,106
+gilley,Digital Illustration (ART 208),4073,AA4,101
+stutz,Portfolio Development (ART 215 - HYBRID),4074,AA4,101
+staley,Art History: Ancient to Late Antique (ART 220 - HYBRID),4075,FAC,104
+tomlinson,Art History: Medieval-Renaissance (ART 221),4076,FAC,104
+tomlinson,Art History: Baroque-Modern (ART 222 - HYBRID),4077,FAC,104
+tomlinson,Women Artists Through History (ART 250 - HYBRID),4078,FAC,104
+hottle,Painting I (ART 257),4079,FAC,108
+halsinger,Publication Production (ART 270),4080,AA4,101
+halsinger,Publication Design (ART 271 - HYBRID),5644,AA4,103
+halsinger,Publication Design (ART 271),4081,AA4,101
+heron,Welded Sculpture Theory I (ART 295),4082,AA2,106
+heron,Welded Sculpture Theory II (ART 296),4083,AA2,106
+heron,Welded Sculpture Theory I (ART 297),4084,AA2,106
+-,AMERICAN SIGN LANGUAGE COURSES,0,-,-
+weiner-collier,ASL I (ASL& 121),4085,HHL,110
+engel,ASL I (ASL& 121),4086,HHL,106
+thornberry,ASL I (ASL& 121),4087,HHL,110
+weiner-collier,ASL I (ASL& 121),4088,HHL,110
+black,ASL I (ASL& 121),4089,HHL,110
+weiner-collier,ASL II (ASL& 122),4090,HHL,110
+engel,ASL II (ASL& 122),4091,HHL,110
+ekle,ASL II (ASL& 122),4092,HHL,110
+engel,ASL III (ASL& 123),4093,HHL,110
+ekle,AM Sign Language V (ASL& 222),4094,HHL,101
+-,ASTRONOMY COURSES,0,-,-
+towell,Intro to Astronomy (ASTR& 101 - HYBRID),4096,APH,107
+sharp,Intro to Astronomy (ASTR& 101 - HYBRID),5645,APH,111
+vazquez,Intro to Astronomy (ASTR& 101 - HYBRID),5651,APH,107
+mijo,Intro to Astronomy (ASTR& 101),4095,CTC,209
+sharp,Intro to Astronomy (ASTR& 101),4098,APH,111
+sharp,Intro to Astronomy (ASTR& 101),4097,APH,111
+-,AUTOMOTIVE TECHNOLOGY COURSES,0,-,-
+nordsiden,Toyota Internship (AUTO 154 - HYBRID),4099,AA2,100
+nordsiden,Intern I (AUTO 164),4100,AA2,100
+haney,Toyota Engine Mechanical (AUTO 252),4101,JSH,112
+godson,Toyota Manual Transmission (AUTO 253),4102,JSH,112
+godson,Automatic Transmissions (AUTO 254),4103,JSH,112
+tracy,Engine Mechanical (AUTO 262),4104,AA1,100
+marques,Manual Transmission (AUTO 263),4105,AA1,100
+marques,Automatic Transmission (AUTO 264), 4106,AA1,100
+-,BACHELOR OF APPLIED SCIENCE IN APPLIED MANAGEMENT COURSES,0,-,-
+jack,Business Principles (BASAM 325 - HYBIRD),4107,SHL,102
+england,Accounting For Managers (BASAM 330 - ONLINE),4108,ONL,ONL
+otto,Human Resource Management (BASAM 400 - HYBRID),4109,SHL,103
+chatfield,Project Management (BASAM 410 - ONLINE),4110,ONL,ONL
+-,COMPUTER TECHNOLOGY COURSES,0,-,-
+hughes,Computing Essentials (CTEC 101),4449,SHL,125
+hughes,Computing Essentials (CTEC 101),4450,SHL,124
+coleman,PC Support CUST Service (CTEC 104),4452,SHL,125
+hughes,Intro to the Internet (CTEC 105),5590,SHL,125
+zimmerman,Command Line Essentials (CTEC 110),4453,SHL,124
+elgort,Intro to Programming (CTEC 121 - ONLINE),5589,ONL,ONL
+baker,Intro to Programming (CTEC 121),4455,SHL,125
+petersen,HTML Fundamentals (CTEC 122 - ONLINE),4456,ONL,ONL
+petersen,HTML Fundamentals (CTEC 122 - ONLINE),4457,ONL,ONL
+elgort,HTML Fundamentals (CTEC 122),4458,SHL,125
+elgort,PHP with SQL I (CTEC 127),4459,SHL,125
+zimmerman,MTA Windows Fundamentals (CTEC 130),4460,SHL,124
+zimmerman,MTA Network Fundamentals (CTEC 131),4461,AA4,104
+gaylord,Wordpress I (CTEC 160 - HYBRID),4464,SHL,124
+wilkins,Intro to Access (CTEC 180 - HYBRID),4465,SHL,018
+coleman,PC Help Desk (CTEC 200),4466,AA4,110
+coleman,Intro MIS Systems (CTEC 205 - ONLINE),4467,ONL,ONL
+coleman,Intro MIS Systems (CTEC 205 - ONLINE),5649,ONL,ONL
+hafer,Comptia A+ Fundamentals (CTEC 213),5592,AA4,104
+hafer,Comptia A+ OS Network (CTEC 214),4470,AA4,104
+elgort,Special Projects (CTEC 290),5610,ARR,ARR
+elgort,Special Projects (CTEC 290),5611,ARR,ARR
+coleman,Capstone EXP (CTEC 295),4471,ARR,ARR
+-,END SAMPLE COURSES,0,-,-

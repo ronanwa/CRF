@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<!--
+    Author Name: Ronan Wallace
+    Assignment : Final Project
+    Due Date   : 06/13/2018
+    Browser    : Google Chrome
+-->
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1.0">
+    <title>Main Classroom Finder Program</title>
+    <link href="css/cf_project.css" rel="stylesheet" />
+    <!--jQuery CDN-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <div id="pagewrapper">
+
+    <!-- HEADER -->
+    <header id="header">
+        <h1>Classroom Finder</h1>
+        <nav id="nav">
+            <ul>
+                <li><a href="cf_welcome.html" title="Welcome">Welcome</a></li>
+                <li><a href="cf_program.html" title="Find Your Class!">ClassroomFinder</a></li>
+                <li><a href="cf_contact.html" title="Contact">Contact</a></li>
+            </ul>
+        </nav>
+      </header>
+
+    <!-- MAPS -->
+    <div id="map"></div>
+    <!-- GMAPS JS FILE -->
+    <script src="js/cf_program_gmaps.js"></script>
+    <!-- GOOGLE MAPS JAVASCRIPT API -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA6StCmd7DtFTP1yPqRkcfAviYTz9X_sC4&callback=initMap"
+    async defer></script>
+
+    <!-- USER INPUT -->
+    <section id="programContent">
+        <form method="POST" id="formBlock">
+            Class Item Number: <input type="text" name="classNumber" id="classNumber" maxlength="4">
+            <button type="submit" id="submit">Find</button>
+        </form>
+    </section>
+
+    <!-- CLASS INFO -->
+    <div id='classInfo'>
+        <h2>Class Information:</h2>
+        <p>No information to display.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer id="footer">
+        <p><a href="#header" title="Click to go to the top of the page!">Top of Page</a></p>
+        <ul>
+            <li><a href="cf_welcome.html" title="Welcome">Welcome</a></li>
+            <li><a href="cf_program.html" title="Find Your Class!">ClassroomFinder</a></li>
+            <li><a href="cf_contact.html" title="Contact">Contact</a></li>
+        </ul>
+        <p id="copyright">&copy; 2018 Ronan's Classroom Finder</p>
+    </footer>
+
+    </div>  <!-- end of pagewrapper -->
+
+</body>
+</html>

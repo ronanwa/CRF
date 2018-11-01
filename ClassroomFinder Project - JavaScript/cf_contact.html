@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<!--
+    Author Name: Ronan Wallace
+    Assignment : Final Project
+    Due Date   : 06/13/2018
+    Browser    : Google Chrome
+-->
+
+<head>
+    <meta charset="utf-8" />
+    <title>Classroom Finder Contact</title>
+    <link href="css/cf_project.css" rel="stylesheet" />
+    <!--jQuery CDN-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <!-- PAGEWRAPPER -->
+	<div id="pagewrapper">
+
+    <!-- HEADER -->
+    <header id="header">
+        <h1>Classroom Finder</h1>
+        <nav id="nav">
+            <ul>
+                <li><a href="cf_welcome.html" title="Welcome">Welcome</a></li>
+                <li><a href="cf_program.html" title="Find Your Class!">ClassroomFinder</a></li>
+                <li><a href="cf_contact.html" title="Contact">Contact</a></li>
+            </ul>
+        </nav>  <!-- end of nav -->
+    </header>  <!-- end of header -->
+    
+    <h2>Contact:</h2>
+    <p>Feel free to leave us feedback and suggestions on how we can improve our application!</p>
+    
+    <div id="errorDisplay"></div>
+
+    <form name='contactForm' id='contactForm' method="POST">
+        <!-- FIRST NAME -->
+        <label for="first">First Name:</label> 
+        <input type="text" name="first" id="first" size="20"><span class='required' id='firstErr'>Required</span>
+        <br><br>
+        <!-- LAST NAME -->
+        <label for="last">Last Name:</label> 
+        <input type="text" name="last" id="last" size="20">
+        <span class='required' id='lastErr'>Required</span><br><br>
+        <!-- ADDRESS -->
+        <label for="address">Address:</label> 
+        <input type="text" name="address" id="address" size="40">
+        <span class='required' id='addressErr'>Required</span><br><br>
+        <!-- CITY -->
+        <label for="city">City:</label> 
+        <input type="text" name="city" id="city" size="30">
+        <span class='required' id='cityErr'>Required</span><br><br>
+        <!-- STATE -->
+        <label for="state">Select a State:</label>
+		<select name="state" id="state">
+			<option value="-">--Select a State--</option>
+            <option value="al">Alabama</option>
+            <option value="ak">Alaska</option>
+            <option value="az">Arizona</option>
+            <option value="ar">Arkansas</option>
+            <option value="ca">California</option>
+            <option value="co">Colorado</option>
+            <option value="ct">Conneticut</option>
+            <option value="dl">Delaware</option>
+            <option value="fl">Florida</option>
+            <option value="ga">Georgia</option>
+            <option value="hi">Hawaii</option>
+            <option value="id">Idaho</option>
+            <option value="il">Illinois</option>
+            <option value="in">Indiana</option>
+            <option value="ia">Iowa</option>
+            <option value="ks">Kansas</option>
+            <option value="ky">Kentucky</option>
+            <option value="la">Louisiana</option>
+            <option value="me">Maine</option>
+            <option value="md">Maryland</option>
+            <option value="ma">Massachusetts</option>
+            <option value="mi">Michigan</option>
+            <option value="mn">Minnesota</option>
+            <option value="ms">Mississippi</option>
+            <option value="mo">Missouri</option>
+            <option value="mt">Montana</option>
+            <option value="ne">Nebraska</option>
+            <option value="nv">Nevada</option>
+            <option value="nh">New Hampshire</option>
+            <option value="nj">New Jersey</option>
+            <option value="nm">New Mexico</option>
+            <option value="ny">New York</option>
+            <option value="nc">North Carolina</option>
+            <option value="nd">North Dakota</option>
+            <option value="oh">Ohio</option>
+            <option value="ok">Oklahoma</option>
+            <option value="or">Oregon</option>
+            <option value="pa">Pennsylvania</option>
+            <option value="ri">Rhode Island</option>
+            <option value="sc">South Carolina</option>
+            <option value="sd">South Dakota</option>
+            <option value="tn">Tennessee</option>
+            <option value="tx">Texas</option>
+            <option value="ut">Utah</option>
+            <option value="vt">Vermont</option>
+            <option value="va">Virginia</option>
+			<option value="wa">Washington</option>
+            <option value="dc">Washington D.C.</option>
+            <option value="wv">West Virginia</option>
+            <option value="wi">Wisconsin</option>
+            <option value="wy">Wyoming</option>
+        </select>
+        <span class='required' id='stateErr'>Required</span><br><br>
+        <!-- HELPFUL OR NOT? -->        
+        Would you use this application again? 
+        <input type="radio" name="contact" value="yes" id="yes"><label for="yes">Yes</label> 
+        <input type="radio" name="contact" value="no" id="no"><label for="no">No</label><span class='required' id='reuseErr'>Required</span>
+        <br><br>
+        <!-- SUGGESTION TEXTBOX -->
+        Feedback &amp; Suggestions:<br>
+        <textarea name="feedback" id="feedback" cols="120" rows="10"></textarea><span class='required' id='feedbackErr'>Required</span>
+        <br><br>
+        <!-- TERMS AND CONDITIONS -->
+        Terms &amp; Conditions 
+        <input type="checkbox" name="terms" value="accept" id='terms'>I accept
+        <span class='required' id='termsErr'>Required</span><br><br>
+        <!-- SUBMIT -->
+		<input type="submit" value="Submit" id="submitButton">
+	</form>
+          
+	<footer id="footer">
+        <p><a href="#header" title="Click to go to the top of the page!">Top of Page</a></p>
+        <ul>
+            <li><a href="cf_welcome.html" title="Welcome">Welcome</a></li>
+            <li><a href="cf_program.html" title="Find Your Class!">ClassroomFinder</a></li>
+            <li><a href="cf_contact.html" title="Contact">Contact</a></li>
+        </ul>
+        <p id="copyright">&copy; 2018 Ronan's Classroom Finder</p>
+    </footer>  <!-- end of footer -->
+    </div> <!-- End of pagewrapper -->
+    
+    <!-- JS File for form validation -->
+    <script src="js/cf_contact.js"></script>
+	
+</body>
+</html>

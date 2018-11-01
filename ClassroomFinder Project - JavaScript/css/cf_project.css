@@ -1,0 +1,166 @@
+/* CSS File for classroom finder project - Ronan Wallace */
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color:#000000;
+    background-color:#bff2ff;
+    margin:0;
+    padding:0;
+}
+
+#pagewrapper {
+    background:rgb(240, 240, 240);
+    width: 1000px;
+    margin:0 auto;
+    padding-left:20px;
+    padding-top: 10px;
+}
+
+#header {
+    background:rgb(240, 240, 240);
+    padding:5px 10px;
+    text-align:center;
+    word-spacing:2px;
+    color:#383838;
+}
+
+#nav {
+    background:rgb(240, 240, 240);
+    padding:5px 10px;
+    text-decoration:none;
+    color:#000000;
+    word-spacing: 60px;
+}
+
+#footer {
+    clear:both;
+    background:rgb(240, 240, 240);
+    padding:5px 10px;
+}
+    
+
+     
+#nav ul, #footer ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-align:center;
+}
+     
+#nav li, #footer li {
+    display:inline;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+h1 {
+    margin:0;
+}
+
+#footer p {
+    margin:0;
+    text-align:center;
+    font-size:.9em;
+    color:#3c627c;
+}
+       
+
+ol {
+    list-style-type:none;
+}
+
+
+.nobullet {
+    list-style-type: none;
+    margin-left: -50px;
+}		   
+        
+fieldset {
+    background:#D5EFFF;
+    margin-top:20px;
+}
+
+legend {
+    background:#FFCE9F;
+    padding:5px;
+    font-weight:bold;
+    font-size:1.5em;
+    border:3px solid #FFC49F;
+}
+
+input[type="text"] {font-size:1em;}
+
+
+select {
+    font-size:1em;
+}			  
+
+
+a:link {
+    text-decoration: none;
+    color: #3c627c;
+}
+
+a:visited {
+    color: #3c627c;
+}
+
+a:hover {
+    background:rgb(255, 255, 255);
+}
+
+/* Welcome Page Specific (Slideshow) */
+#slideshow {
+    width:700px;
+}
+
+#welcomeContent {
+    text-align:justify;
+    width:1000px;
+    background:rgb(240, 240, 240);
+}
+
+#welcomeContent p{
+    padding-right:30px;
+}
+
+/* Program Page Specific (Classroom Finder) */
+#map {
+    height: 800px;
+    width: 800px;
+    margin: 0 auto;
+  }
+
+#formBlock{
+    padding-top:20px;
+}
+
+#programContent {
+    padding-top:10px;
+    text-align:justify;
+    width:1000px;
+    background:rgb(240, 240, 240);
+}
+
+#classInfo{
+    padding-top:40px;
+}
+
+/* Contact Page Specific (Form Validation) */
+.required {
+    display: none;
+    padding-left: 10px;
+    font-style: italic;
+    color: #ff0000;
+}
+
+#contactForm {
+    padding-top: 35px;
+}
+
+#classInformation{
+    margin:0;
+    padding:0;
+}
