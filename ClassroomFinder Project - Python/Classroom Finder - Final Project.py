@@ -1,5 +1,6 @@
-#Ronan Wallace
-#Final Project - ClassroomFinder
+##Author Name: Ronan Wallace
+##File Name  : ClassroomFinder Project - Python.py
+##Project    : ClassroomFinder
 
 #imports graphics
 from graphics import *
