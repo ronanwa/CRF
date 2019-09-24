@@ -1,6 +1,5 @@
-##Author Name: Ronan Wallace
-##File Name  : ClassroomFinder Project - Python.py
-##Project    : ClassroomFinder
+#Ronan Wallace
+#Final Project - ClassroomFinder
 
 #imports graphics
 from graphics import *
@@ -303,8 +302,8 @@ def displayClassLocation(buildingName,className,roomNumber):
     win=GraphWin(className,800,800)
     #Sets coordinates for ease of use
     win.setCoords(0,0,8,8)
-    #Constructs the file name ("blank.png")
-    buildingName=buildingName+".png"
+    #Constructs the file name ("___.png")
+    buildingName="images/"+buildingName+".png"
     #Displays the image (campus map with class location)
     image=Image(Point(4,4),buildingName)
     image.draw(win)
